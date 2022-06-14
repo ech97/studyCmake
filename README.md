@@ -1,2 +1,2 @@
 # studyCmake
-Let's Learning Cmake
+Let's Learn Cmake
